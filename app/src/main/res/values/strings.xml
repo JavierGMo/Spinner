@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="spinner_title">Opciones</string>
+    <string name="digitar_el_spinner">Digitar el Spinner:</string>
+    <string name="guardar_elemento">Guardar elemento</string>
+    <string name="agregar_nuevo_elemento">Agregar nuevo elemento:</string>
+</resources>
